@@ -1,1 +1,1 @@
-# War-thunder-apicall-practice
+# General Python practice
